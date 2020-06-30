@@ -1,0 +1,8 @@
+- Khi muốn thêm sản phẩm vào giỏ hàng thì trong trang chủ bạn nhấn vào sản phẩm hoặc hình ảnh 
+ giỏ hàng để thêm sản phẩm vào giỏ hàng.Sản phẩm sẽ được cập nhập ở giỏ hàng.
+- Người sử dụng có thể xem danh sách các sản phẩm theo loại bằng cách di chuyển chuột đến button
+ sản phẩm trên thanh menu sau đó sẽ có một thanh menu đổ xuống bạn chọn loại sản phẩm mà bạn mong muốn 
+- Khi người sử dụng muốn thanh toán hay đặt hàng thì trong giỏ hàng trên thanh menu ấn nút đặt hàng sau
+ đó sẽ chuyển đến trang đặt hàng
+Để vào trang chủ bạn gõ
+http://localhost/Midterm2_NguyenHuongNgocTram/laravelMidterm2/index
